@@ -1,7 +1,7 @@
 # Concurrent-folder-tree-simulator
 
 University task for concurrent programming course.
-The implementation of Hashmap and some path ustils functions were given for this task
+The implementation of Hashmap and some path ustils functions were given for this task.
 
 ## Task description
 
